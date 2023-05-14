@@ -7,12 +7,3 @@
     /* background-color: rgb(78, 227, 240); */
     background-image: url("../assets/abstract-digital-grid-black-background_53876-97647.jpeg");
 }
-
-.align > h2 {
-    text-align: center;
-}
-
-label{
-    color : whitesmoke;
-    font-size: 1.23em;
-}
