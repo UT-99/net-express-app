@@ -1,0 +1,28 @@
+.navbar_flex {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(97, 66, 127);
+  justify-content: space-around;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.textdecoration {
+  text-decoration-line: none;
+  padding: 1.2vw;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  color: rgb(194, 59, 59);
+}
+
+.Logo_netexpress {
+  width: 30%;
+  padding: 1.2vw;
+  font-weight: bold;
+  color: red;
+  font-size: larger;
+}

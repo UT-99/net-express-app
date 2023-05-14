@@ -1,0 +1,195 @@
+.text_align{
+    width: 50vw;
+    margin-left: 25vw;
+    text-align: center;    
+    background-repeat: no-repeat;    
+    background-image: url('../assets/world-black-white-simple-wallpaper-preview.jpg');
+}
+
+.font_decoration {
+    font-size: 1.9rem;
+    color: whitesmoke;
+    margin: 0;
+}
+#Region{
+    color:rgb(194, 75, 95) 
+}
+
+#para{
+    width: 60%;
+    margin-left: 20%;
+    color : white
+}
+
+#PlayButton{
+    font-size: 40px;
+    color: white;
+}
+
+#PlayButton  svg {
+    width: 90px;
+    height: 90px;
+    color: rgb(38, 121, 194);
+}
+
+.flex_container{
+    /* text-align: left; */
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    display:  flex;
+    justify-content: space-between;
+}
+
+.flex_items_left{
+    width: 45%;
+    text-align: left;
+}
+
+.flex_items_right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55%;
+    text-align: end;
+    font-size: .9em;
+}
+
+.flex_container_cards{
+    width: 99%;
+    margin-left: .5%;
+    display: flex;
+    justify-content: space-between;
+}
+.UnorderList{
+    text-align: start;
+}
+
+.firstCard{
+    color: white;
+    width: 33%;
+    background-color: rgb(117, 70, 175);
+    border-radius: 5px;
+}
+
+.secondCard{
+    color: rgb(10, 9, 9);
+    width: 33%;
+    background: linear-gradient(to bottom right, skyblue, pink , rgb(185, 42, 135));
+    border-radius: 5px;
+}
+
+.thirdCard{
+    color: white;
+    width: 33%;
+    background-color: rgb(117, 70, 175);
+    border-radius: 5px;
+}
+.display{
+    display: flex;
+    justify-content: space-around;
+}
+
+.display2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.display3_1{
+    margin: 2%;
+}
+
+.display3{
+    background-color: aqua;
+    display: flex;
+   
+    justify-content:space-between;
+}
+
+.clients > svg, .connectionInWorld > svg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+
+}
+.clients, .connectionInWorld{
+    width: 40%;
+}
+
+.display4{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.arrow_direction svg{
+    font-size: 3em;
+}
+
+.iconForCard > svg{
+    font-size: 2.3em;
+    text-align: start;
+    background-color: rgb(85, 206, 148);
+    border-radius: 50%;
+    
+
+}
+
+.centerForItem{
+display: flex ;
+justify-content: center;
+align-items: center;
+}
+
+
+.centerForItemInput{
+    display: flex ;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+
+.color{
+    color: azure;
+}
+
+.width{
+    width: 43% ;
+    height: 30%;
+}
+
+.background{
+    background: linear-gradient(to bottom right , blue , pink );
+}
+
+.inputBackground{
+    background-color: black;
+    color: aliceblue;
+}
+
+.headingWidth{
+    width: 45%;
+}
+
+.inputWidth{
+    width: 55%
+}
+
+.headingBGColor{
+    border-radius: 5px;
+    background-color: rgb(29, 31, 31);
+}
+
+
+.teamPicture{
+    border-radius: 50%;
+    width: 45%;
+    background-repeat: no-repeat;
+    background-image: url("../assets/colorful-dotted-world-map-vector-260nw-1022612266.jpeg");
+}
+
+.RandomText{
+    color: azure;
+    margin-left: 6%;
+}
