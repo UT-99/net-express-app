@@ -146,7 +146,7 @@ const Home = () => {
               omnis consequuntur .
             </p>
 
-            <div className="display3">
+            {/* <div className="display3">
 
               <div className="display3_1">
                 <div className="clients">
@@ -169,7 +169,7 @@ const Home = () => {
               </div>
 
 
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

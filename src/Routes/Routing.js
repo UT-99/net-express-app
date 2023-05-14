@@ -6,6 +6,8 @@ import Services from '../components/Services'
 import Shop from '../components/Shop'
 import Page from '../components/Page'
 import Profile from '../components/Profile'
+import Login from '../components/Login';
+import Register from '../components/Register'
 
 const Routing = () => {
   return (
@@ -18,6 +20,8 @@ const Routing = () => {
         <Route path='/Shop' element={<Shop/>}></Route>
         <Route path='/Page' element={<Page/>}></Route>
         <Route path='/Profile' element={<Profile/>}></Route>
+        <Route path='/Login' element={<Login/>}></Route>
+        <Route path='/Register' element={<Register/>}></Route>
 
 
       </Routes>
